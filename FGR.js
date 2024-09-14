@@ -1,5 +1,6 @@
-/*
+
 var body = $response.body;
+/*
 // We have not performed request link comparison.
 var obj = JSON.parse(body);
 // rewrite
